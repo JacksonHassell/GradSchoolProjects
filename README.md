@@ -11,3 +11,5 @@ YelpReviewGeneration: Fine-tuned GPT-2 on a dataset of scraped Yelp reviews to a
 OnlineNewsPopularity: Exploratory analysis of a dataset of online news articles. Created a model to predict how many shares an article is likely to get.
 
 HousingAnalysis: Exploratory analysis of a dataset of sold homes. Created a model to predict how much each home is likely to sell for.
+
+SpotifyUnsupervised: Exploratory analysis of a Spotify music dataset. Compared unsupervised clusters to genre labels.
