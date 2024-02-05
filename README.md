@@ -1,6 +1,6 @@
 # SchoolProjects
 
-A repository holding various projects I completed while getting my Masters in Business Analytics.
+A repository holding various projects I completed while getting my Masters degree.
 
 TweetScraper: A project that tracked public opinion on two crytocurrencies over time, done by scraping a year's worth of tweets and running them through a sentiment analyzer.
 
